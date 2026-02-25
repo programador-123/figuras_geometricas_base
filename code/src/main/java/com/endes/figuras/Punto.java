@@ -35,5 +35,7 @@ public class Punto {
         double dy = this.y - otro.y;
         return Math.sqrt(dx * dx + dy * dy);
     }
+    
+    
 
 }
