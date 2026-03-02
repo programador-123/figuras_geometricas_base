@@ -15,7 +15,7 @@ this.vertice3 = vertice3;
 
 @Override
 public double area() {
-return Math.abs((vertice1.getX() * (vertice2.getY() - vertice3.getY());
+return Math.abs((vertice1.getX() * vertice2.getY() - vertice3.getY()));
 }
 
 @Override

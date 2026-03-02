@@ -1,6 +1,7 @@
 package com.endes.figuras;
 
-public class Cuadrado extends FiguraGeometrica {
+
+
                             
 
 /**
